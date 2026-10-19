@@ -1,0 +1,10 @@
+*   Merge branch 'feature/invites'
+|\
+| * feat(invites) : ajout d'Amel Diarra
+| * feat(invites) : ajout des deux premiers invites
+|/
+* (README modifié en ligne)
+* fix(episodes) : correction du titre de l'episode 2
+* feat(materiel) : ajout des matériel a emprunter
+* feat(episodes) : ajout des trois premiers episodes
+* Initial commit
